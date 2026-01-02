@@ -1,9 +1,3 @@
-Perfect — here is a **short, clean, very human** `README.md`.
-It sounds like a **smart student explaining their work**, not a paper or an AI.
-
-You can paste this directly.
-
----
 
 # Noise-Aware ML for High-Speed Measurement Correction
 
